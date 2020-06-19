@@ -15,7 +15,7 @@ body {
 	margin-top: 96px;
 	justify-content: center;
 	
-	display: block;
+	display: flex;
 	text-align: center;
 }
 .corner {
