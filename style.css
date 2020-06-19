@@ -14,7 +14,8 @@ body {
 .countdowns {
 	margin-top: 96px;
 	justify-content: center;
-	display: flex;
+	
+	display: block;
 	text-align: center;
 }
 .corner {
